@@ -1,0 +1,15 @@
+{
+  "name": "scfld-rollup-ts",
+  "version": "0.0.1",
+  "description": "A Scfld plugin to generate front-end TypeScript projects bundled with Rollup",
+  "author": "André Rieussec",
+  "license": "MIT",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "inquirer": "^0.10.0",
+    "lodash": "^3.10.1",
+    "q": "^1.4.1"
+  }
+}
